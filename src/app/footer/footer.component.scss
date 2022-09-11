@@ -1,0 +1,18 @@
+.footer {
+   background: linear-gradient(130.68deg, #414141 0%, #2d2d2d 100.52%);
+   &__row {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 60px;
+   }
+
+   &__text {
+      color: #e4e4e4;
+      font-weight: 300;
+      font-size: 18px;
+      line-height: 21px;
+   }
+}
+.container {
+}
